@@ -1,0 +1,7 @@
+Flask
+google-api-python-client
+youtube-transcript-api
+nltk
+scikit-learn
+textblob
+transformers
